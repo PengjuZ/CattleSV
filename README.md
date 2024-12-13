@@ -1,1 +1,1 @@
-
+Cattle pangenome graphs construction
