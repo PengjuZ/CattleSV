@@ -1,16 +1,16 @@
 ###############################################################################
-1. eqtl-mapping.sh
+1. eqtl-mapping.sh 
 ###Perform TensorQTL for cis-eQTL mapping.
 
-(1)prepare_data.r
+(1)prepare_data.r 
 Prepare input files for cis-eQTL mapping.
   
-(2) FDR.r
+(2) FDR.r 
 Identify genome-wide significant genes, known as eGenes.
   
-(3) pairs.py
+(3) pairs.py 
 Extract significant eGene–eVariant pairs.
 ###############################################################################
-2. fine-mapping.sh
+2. fine-mapping.sh 
 ###Predict a causal variant for each eGene by untangling linkage disequilibrium.
 ###############################################################################
